@@ -16,4 +16,4 @@ namespace proxima {
         float similarity;
     };
 
-} // namespace proxima
+}

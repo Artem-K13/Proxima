@@ -25,4 +25,4 @@ namespace proxima {
         float cosine_similarity(const Vector& a, const Vector& b) const;
     };
 
-} // namespace proxima
+}

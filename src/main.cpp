@@ -57,7 +57,7 @@ public:
     }
 };
 
-} // namespace proxima
+}
 
 int main() {
     proxima::VectorStore store;
