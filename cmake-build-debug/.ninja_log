@@ -1,0 +1,8 @@
+# ninja log v7
+1	1127	8126446731303527	CMakeFiles/proxima.dir/main.cpp.obj	b4d6a21981866196
+291	422	8126482707483625	proxima.exe	db1b65c302664ed
+13	291	8126482704695745	CMakeFiles/proxima.dir/include/proxima/types.cpp.obj	eee2c129bca347de
+18	1811	8126490621184764	CMakeFiles/proxima.dir/src/main.cpp.obj	2f8e6e05310bbd8c
+5	571	8126495295900319	CMakeFiles/proxima_lib.dir/src/vector_store.cpp.obj	7dca336ab8a8750f
+572	616	8126495301568669	libproxima_lib.a	e9cc56b47c779a80
+616	676	8126495302014714	proxima.exe	7c294216990e593b
