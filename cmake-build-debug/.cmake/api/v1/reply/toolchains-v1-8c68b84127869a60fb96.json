@@ -10,33 +10,6 @@
 				{
 					"includeDirectories" : 
 					[
-						"D:/CLion 2026.2.3.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
-						"D:/CLion 2026.2.3.1/bin/mingw/include",
-						"D:/CLion 2026.2.3.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed",
-						"D:/CLion 2026.2.3.1/bin/mingw/x86_64-w64-mingw32/include"
-					],
-					"linkDirectories" : [],
-					"linkFrameworkDirectories" : [],
-					"linkLibraries" : []
-				},
-				"path" : "D:/CLion 2026.2.3.1/bin/mingw/bin/gcc.exe",
-				"version" : "15.2.0"
-			},
-			"language" : "C",
-			"sourceFileExtensions" : 
-			[
-				"c",
-				"m"
-			]
-		},
-		{
-			"compiler" : 
-			{
-				"id" : "GNU",
-				"implicit" : 
-				{
-					"includeDirectories" : 
-					[
 						"D:/CLion 2026.2.3.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++",
 						"D:/CLion 2026.2.3.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32",
 						"D:/CLion 2026.2.3.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward",
@@ -61,6 +34,7 @@
 				"cc",
 				"cpp",
 				"cxx",
+				"m",
 				"mm",
 				"mpp",
 				"CPP",

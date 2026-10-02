@@ -1,8 +1,14 @@
 [
 {
   "directory": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug",
-  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -O3 -march=native -o CMakeFiles\\proxima.dir\\main.cpp.obj -c C:\\Users\\ПК\\Desktop\\Proxima\\main.cpp",
-  "file": "C:/Users/ПК/Desktop/Proxima/main.cpp",
-  "output": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/proxima.dir/main.cpp.obj"
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -IC:/Users/ПК/Desktop/Proxima/include -g -std=gnu++20 -fdiagnostics-color=always -O3 -march=native -o CMakeFiles\\proxima_lib.dir\\src\\vector_store.cpp.obj -c C:\\Users\\ПК\\Desktop\\Proxima\\src\\vector_store.cpp",
+  "file": "C:/Users/ПК/Desktop/Proxima/src/vector_store.cpp",
+  "output": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/proxima_lib.dir/src/vector_store.cpp.obj"
+},
+{
+  "directory": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -IC:/Users/ПК/Desktop/Proxima/include -g -std=gnu++20 -fdiagnostics-color=always -O3 -march=native -o CMakeFiles\\proxima.dir\\src\\main.cpp.obj -c C:\\Users\\ПК\\Desktop\\Proxima\\src\\main.cpp",
+  "file": "C:/Users/ПК/Desktop/Proxima/src/main.cpp",
+  "output": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/proxima.dir/src/main.cpp.obj"
 }
 ]

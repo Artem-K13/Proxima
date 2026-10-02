@@ -1,3 +1,4 @@
+C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/proxima_lib.dir
 C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/proxima.dir
 C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -16,7 +16,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -31,7 +32,8 @@
 					"name" : "proxima",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -40,8 +42,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "proxima::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-proxima-Debug-b85fd0c66dba8465c98f.json",
+					"jsonFile" : "target-proxima-Debug-9e8c6024992791cc9ec1.json",
 					"name" : "proxima",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "proxima_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-proxima_lib-Debug-6d2923199b96864dff9a.json",
+					"name" : "proxima_lib",
 					"projectIndex" : 0
 				}
 			]
