@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -O3 -march=native -o CMakeFiles\\proxima.dir\\main.cpp.obj -c C:\\Users\\ПК\\Desktop\\Proxima\\main.cpp",
+  "file": "C:/Users/ПК/Desktop/Proxima/main.cpp",
+  "output": "C:/Users/ПК/Desktop/Proxima/cmake-build-debug/CMakeFiles/proxima.dir/main.cpp.obj"
+}
+]
